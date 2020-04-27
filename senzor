@@ -1,5 +1,5 @@
 #! python3.4
-
+l-am editat aici
 import paho.mqtt.client as mqtt
 import time,json,random
 broker="192.168.1.184"
